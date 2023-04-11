@@ -1,5 +1,8 @@
 ### Hi there 👋
 ## Alexis
+<div align="center">
+    <img src=https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"</img>
+</div>
 <!--
 **AlexSTM2/AlexSTM2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
